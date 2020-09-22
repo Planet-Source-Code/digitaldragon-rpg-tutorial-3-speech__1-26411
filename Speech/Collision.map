@@ -1,0 +1,150 @@
+<PPOS>
+ 32 
+ 71 
+<MAP>
+>>>>CDDDDDDDDDE>>>>>>
+><>>F>>>>>>>>>G>>>>>>
+>>>>F>???????>G>>>>>>
+>>>>F>?>>>>=?>G>>>>>>
+>>>>>>?>?????>G>>>>>>
+>>>>F??>>>>>>>G>>>>>>
+>>>>@AAAAAAAAABE>>>>>
+>>>>>>>>>>>F<<<G>>>>>
+>>>>>>>>>>>F???G>>>>>
+>>>>>>>>>>>@A?AB>>>>>
+>>???>>>>>>>>?>>>>>>>
+>>????????????>>>>>>>
+>>???>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>CE>>>>>>>>>>>>>
+>>>>>>@B>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+</MAP>
+<NPC>
+The Butler
+90
+190
+1
+2
+Farmer
+190
+290
+3
+4
+Peasant
+400
+350
+5
+6
+</NPC>
+<SPEECH>
+<0001>
+Hello,my name is 'The Butler' and i am just another digital NPC in this town,what can i do for ya?
+0007=W-Who???
+0008=Well then,what can you tell me about this town?
+0000=You know what,i dont realy want to talk to you,bye!
+<0002>
+Oh,hello again mister,is there something you want?
+0009=Well,what can you tell me about the 'Speech Tutorial'?
+0007=Who are you again?
+0010=Who is that guy over there?
+<0003>
+Well well,if it isn't one of you coders,i havent seen your kind in a while,whadya want?
+0011=Is there something you dont like about coders?
+0000=Hey,talk to you later,gotta go.
+<0004>
+Hello,i've nothing more to say to you.
+0012=But just one little question!
+0000=FINE!!!
+<0005>
+Well hello there mr. Coder,What can old Hermit do for ya?
+0013=Whats that big hill over there?
+0014=What are you doing here anyway?
+0000=Apsolutley nothing,bye!
+<0006>
+Heh,do i know you?
+0015=Of course you do,you just spoke to me.
+0015=Huh,whad ya mean by that?
+0000=No,sorry to disturb you.
+<0007>
+Like i said,i am 'The butler',i am here to greet anyone that downloads this code from planetSourceCode.com and to ask you if you would please vote for the code and leave feedback,who might you be?
+0016=Uhh,Bill Gates.
+0016=Top cat.
+0016=Tweety :)
+0017=No one.Is none of your business !!!
+<0008>
+Not much realy,its been created in Map Editor.exe and its been on PlanetSourceCode.com ever since.
+0018=Wow,much of a history then he,he :)
+0000=Well then i've got nothing to do here,bye.
+<0009>
+There is allot to tell,my creator has given me the key explanations of the primary elements of the game,since he hates writing comments.
+0019=Wow,that is a very nice way to explain stuff,right?
+0020=What can you tell me obout collision detection?
+0021=How is the drawing done?
+0022=how do you know where the NPC is so you change the cursor on him?
+0023=How do you know which speech is any NPC saposed to say?
+0024=How do you know how to  change text on the right one by clicking on the labels?
+0025=how do you exit the speech mode?
+0000=Ok that all i need to know.
+<0010>
+That is the farmer,he just sits there though.
+0026=What ya mean by 'sits there'?
+<0011>
+Yeah i do,you people download the code which transfers the intire town to your computer just so you forget to vote and put it in the trash can later.
+0027=I'm not like that,i'll vote!
+0000=Tough luck,he,he,see yah.
+<0012>
+NO!not a single one!
+0000=FINE!!!!!!!!!!!&%&#$%!#=)&/"
+<0013>
+That is the rocky mountain,in the middle of it there is  a chair size of the house,but you cant do nothing about it since my creator has not yet finished quest tutorial.
+0005=Oh,well let me ask you something else then.
+<0014>
+Just like 'the Butler' i stand here and greet anyone who comes by,but only 'the Butler' can tell you on how some of the game parts are made.
+0000=Well then i'll ask him,bye!
+<0015>
+Did I?I must have forgotten,you know,i have that something...i dont remember what the doctor called it.
+0013=Hmph,well can you tell me something obout that mountain?
+0000=It's called amnesia,you %$#//&%% and $$$/&(#"$" and &%$%$,naaaaargh....
+<0016>
+Well then,what can i do for you?
+0010=Well,what can you tell me about that guy over there
+0000=Nothing at all.
+<0017>
+That is not very nice of you,come back when you are in a better mood.
+0000=[Done]
+<0018>
+Hmph,yeah.
+0000=Well,i wont disturb you then.
+0007=What did you say your name was?
+<0019>
+Yeah it is,my creator thinks that this is allot better then comments because many people download the code and dont look at it just run it and forget it,sad but its how it is,I would appriciate if you would vote at PSCode.com.
+0009=Yeah i will,let me ask you something else.
+<0020>
+The character can move a fixed number of pixels per second,so every time the program divides current position + how much the character can move by 1000.So every time it checks will thestep furher be a diferent tile,very simple!
+0009=Ok let me ask you something else.
+<0021>
+Trough DirectDraw.
+0009=Ok let me ask you something else.
+<0022>
+Check the 'IsCursorOverNPC' function,it detects the position and calculates it trought the scroll bar values.
+0009=Ok let me ask you something else.
+<0023>
+In the map file it is specified what to say first and what to say if you have already talked to the character.
+0009=Ok let me ask you something else.
+<0024>
+It is all loaded in the map file,check the map file with notepad and check the clsMap.cls
+0009=Ok let me ask you something else.
+<0025>
+The Redirect tag is 0.
+0009=Ok let me ask you something else.
+<0026>
+He doesnt do anything,he just insults people.
+0000=Hmm,let me go talk to him,bye.
+<0027>
+Sure you will,well if many vote in the next submission i will be nicer.
+0000=Ok.
+<0028>
